@@ -1,8 +1,7 @@
-# Weather
+# Weather_app
+![Hex tessellated geojson](weather.jpg)
 
-Distinctiveness and Complexity:
-
-My project, Weather meets the distinctiveness and complexity requirements because it is a data driven design mapping project, which is unique to an e-commerce page or social network. I’ve used a friends api, collected from national weather services to create a hex map of the USA that can dynamically map data with the help of mapbox’s js library. Django is used as the container, written in python coding for the back-end and java script for the front. The app is mobile responsive and contains a few models that are used in it’s own a Rest-framework api. 
+I’ve used a friends api, collected from national weather services to create a hex map of the USA that can dynamically map data with the help of mapbox’s js library. Django is used as the container, written in python coding for the back-end and java script for the front. The app is mobile responsive and contains a few models that are used in it’s own a Rest-framework api. 
 
 File analysis: 
 
